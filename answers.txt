@@ -9,7 +9,7 @@ Answer: Like healthcare. It can analyze a person's health status by utilizing va
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: [Your answer here]
+Answer: When merging it will have conflict, but when we use rebasing it will not.
 
 Q4: What are you looking forward to this semester?
 
