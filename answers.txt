@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Like healthcare. It can analyze a person's health status by utilizing various physiological data such as heart rate and body temperature.
