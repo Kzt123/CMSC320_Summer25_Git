@@ -6,3 +6,11 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Like healthcare. It can analyze a person's health status by utilizing various physiological data such as heart rate and body temperature.
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: [Your answer here]
+
+Q4: What are you looking forward to this semester?
+
+Answer: Help me for the future work by learning more data science.
